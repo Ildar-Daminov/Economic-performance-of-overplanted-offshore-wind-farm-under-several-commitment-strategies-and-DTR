@@ -1,6 +1,7 @@
 # Quantifying-the-revenue-of-overplanted-offshore-wind-farms-allowing-dynamic-rating
 This repository will contain MATLAB code and data for our research article once it will be officially published (current status:  under review)
 
+ 
 So far, you may see our repositories for already published articles: 
 * Article: Assessment of dynamic transformer rating, considering current and temperature limitations. [GitHub repository](https://github.com/Ildar-Daminov/Assessment_Dynamic_Thermal_Rating_of_Transformers)
 * Article: Demand Response Coupled with Dynamic Thermal Rating for Increased Transformer Reserve and Lifetime. [GitHub repository](https://github.com/Ildar-Daminov/Demand-response-coupled-with-DTR-of-transformers)
