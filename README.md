@@ -1,4 +1,4 @@
-# Quantifying-the-revenue-of-overplanted-offshore-wind-farms-allowing-dynamic-rating
+# Economic performance of overplanted offshore wind farm under several commitment strategies and dynamic thermal ratings of submarine export cable
 This repository will contain MATLAB code and data for our research article once it will be officially published (current status:  under review)
 
  
