@@ -3,6 +3,7 @@ SOON, this repository will contain MATLAB code and data for our [research articl
 
  
 So far, you may see our other repositories for already published articles: 
+* Conference paper: Optimal energy management of offshore wind farms considering the combination of overplanting and dynamic rating 2022, [GitHub repository](https://github.com/Ildar-Daminov/Optimal_energy_management_of_offshore_wind_farms-considering_overplanting_and_DTR_of_export_cables)
 * Article: Assessment of dynamic transformer rating, considering current and temperature limitations. [GitHub repository](https://github.com/Ildar-Daminov/Assessment_Dynamic_Thermal_Rating_of_Transformers)
 * Article: Demand Response Coupled with Dynamic Thermal Rating for Increased Transformer Reserve and Lifetime. [GitHub repository](https://github.com/Ildar-Daminov/Demand-response-coupled-with-DTR-of-transformers)
 * Article: Energy limit of oil-immersed transformers: A concept and its application in different climate conditions. [GitHub repository](https://github.com/Ildar-Daminov/Energy-limit-of-power-transformer)
