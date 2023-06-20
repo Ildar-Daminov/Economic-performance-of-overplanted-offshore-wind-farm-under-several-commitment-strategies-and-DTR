@@ -50,7 +50,7 @@ Additional functions:
 * I_admissible.m - This function finds the admissible current in accordance with IEC 60287-1-1, p11
 * I2P.m - this function converts I (in A) to power values (in MVA) for submarine cable 225 kV
 * P2I.m - this function converts power S (in MVA) to current I (in A) for submarine cable 225 kV
-* CATAPULT_costs_2019.m - this function calculates CAPEX and OPEX for the given OWF capacity
+* CATAPULT_costs_2019.m - this function calculates CAPEX and OPEX for the given OWF capacity [Data source](https://guidetoanoffshorewindfarm.com/wind-farm-costs)
 
 Initial data:
 * main_simulations_STR_2018.mat - precalculated results when Static Thermal Rating is used for cable constraints and market prices of 2018 (before the energy crisis)
