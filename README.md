@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/568253498.svg)](https://zenodo.org/doi/10.5281/zenodo.12510334)
+[![DOI:10.1016/j.apenergy.2023.121326](http://img.shields.io/badge/DOI-10.1016/j.apenergy.2023.121326-B31B1B.svg)](https://doi.org/10.1016/j.apenergy.2023.121326)
+
 Upd (19/06/2023): The first release of MATLAB code and data. The following data, as being greater than 25 MB, are published as a release (see the section "Releases"at the right side of the page) :
 - main_simulations_DTR_2018 / main_simulations_DTR_2022
 - main_simulations_STR_2018 / main_simulations_STR_2022
